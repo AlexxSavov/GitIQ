@@ -1,0 +1,27 @@
+:root{
+    background-color: rgb(255, 89, 0);
+    }
+    
+    li{
+        padding-bottom: 3px;
+        color: rgb(0, 0, 0);
+        text-shadow: 1.5px 1px 3px rgb(217, 0, 0);
+        list-style-type: none;
+    }
+    
+    p{
+        color: black;
+        text-shadow: .5px .5px white;
+        text-align: center;
+        font-size: xx-large;
+        font-family: sans-serif;
+    
+    }
+    h2{
+        font-family: sans-serif;
+        margin-top: -.5rem;
+    }
+    input{
+        text-align: center;
+    }
+    
